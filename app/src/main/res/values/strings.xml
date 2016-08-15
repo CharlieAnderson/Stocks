@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="action_settings">Settings</string>
+    <string name="Welcome">Welcome to Stocks</string>
+</resources>
